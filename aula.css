@@ -1,5 +1,5 @@
 body{
-	background: #4682B4}
+	background:	#808080}
 h1{
 	text-align: center;
 	text-transform: uppercase;
@@ -12,6 +12,15 @@ h2{
 }
 
 #banner{
-	widows: 250px;
-	height: 250px;
+	widows: 150px;
+	height: 150px;
+    
+    vertical-align: top;
+	margin: 0 1.5%
+	padding: 20px 30px;
+	box-sizing: border-box;
+	border: 10px solid 	#000000;
+	border-radius: 10px; /*/ ARREDENDAR A BORDA */
+	border-style: dashed;
+
 }
